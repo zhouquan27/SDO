@@ -7,7 +7,8 @@ on:
   push:
     branches: [ "main" ]
   pull_request:
-    branches: [ "main" ]https://github.com/zhouquan27/SDO/blob/main/.github/workflows/python-app.yml
+    branches: [ "main" ]
+    https://github.com/zhouquan27/SDO/blob/main/.github/workflows/python-app.yml
 
 permissions:
   contents: read
